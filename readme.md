@@ -5,3 +5,6 @@ This a demo repo
 THis is a subheading
 
 ### changes is feature
+
+## New updates 
+Watch tutorial 
